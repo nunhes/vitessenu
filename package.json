@@ -25,7 +25,7 @@
     "@vitejs/plugin-vue": "^1.6.0",
     "@vue/compiler-sfc": "^3.2.6",
     "@vue/server-renderer": "^3.2.6",
-    "critters": "^0.0.10",
+    "critters": "^0.0.24",
     "cross-env": "^7.0.3",
     "eslint": "^7.32.0",
     "https-localhost": "^4.6.5",
